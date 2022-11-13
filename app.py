@@ -10,7 +10,7 @@ import nltk
 from nltk.corpus import stopwords
 
 DATA_URL = (
-    "E:\Jupyter Notebook\sentimentdashboard\Tweets.csv"
+    "https://docs.google.com/spreadsheets/d/1UhXYxPdGNYRr5hQT1KHfGjhUCc_BG439GrDA1FBkjsA/edit?usp=sharing"
 )
 
 stml.title("US Airlines Tweet Sentiment Analysis")
